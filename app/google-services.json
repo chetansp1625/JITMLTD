@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "951031317001",
+    "project_id": "jit-text-detector-ml",
+    "storage_bucket": "jit-text-detector-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951031317001:android:dbb044cd86f565a2502ed8",
+        "android_client_info": {
+          "package_name": "tackled.jit.jitmltd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951031317001-t49tq2ht6lcmfc6hhghp5ratg0ohptdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbwbBYtW4rBmeFe9lBVrNWf6nh6OfpGNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951031317001-t49tq2ht6lcmfc6hhghp5ratg0ohptdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951031317001:android:a4dd17526ca3f94d502ed8",
+        "android_client_info": {
+          "package_name": "tackled.jit.jittextdetectorml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951031317001-t49tq2ht6lcmfc6hhghp5ratg0ohptdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbwbBYtW4rBmeFe9lBVrNWf6nh6OfpGNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951031317001-t49tq2ht6lcmfc6hhghp5ratg0ohptdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
